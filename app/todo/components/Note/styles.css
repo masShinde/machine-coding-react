@@ -1,0 +1,29 @@
+.note-container{
+    padding: 0.5rem;
+    background-color: beige;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+.title-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.operation-container{
+    display: flex;
+    padding: 0.5rem 1rem;
+}
+
+.description-container{
+    padding: 0.5rem 1rem;
+}
+
+.note-icon{
+    cursor: pointer;
+    margin-right: 1rem;
+}
+

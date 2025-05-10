@@ -1,0 +1,13 @@
+.tab-container{
+    width: 14rem;
+    height: 3rem;
+    border-width: 1px;
+    border-color: #ccc;
+    background-color: beige;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    align-items: center;
+    cursor: pointer;
+}

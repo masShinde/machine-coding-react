@@ -1,0 +1,6 @@
+.todo-container{
+    padding: 1rem;
+    min-height: 100vh;
+    height: auto;
+    background-color: red;
+}

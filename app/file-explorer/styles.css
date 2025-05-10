@@ -1,0 +1,12 @@
+.explorer-container{
+    color: #000;
+
+}
+
+.children-container{
+    margin-left: 8px;
+}
+
+.item-container{
+    cursor: pointer;
+}

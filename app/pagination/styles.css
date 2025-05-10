@@ -1,0 +1,8 @@
+.container{
+    color: #000;
+}
+
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+}

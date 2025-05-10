@@ -1,0 +1,22 @@
+.task-list-wrapper{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 0 0.5rem;
+}
+
+.task-list-heading-container{
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
+}
+
+.task-list-heading{
+    font-weight: bold;
+}

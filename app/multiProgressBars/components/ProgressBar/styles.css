@@ -1,0 +1,12 @@
+.progress-bar-wrapper{
+    height: 1rem;
+    width: 40rem;
+    margin: 0.5rem;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.progress-bar{
+    background-color: greenyellow;
+    height: 100%;
+}

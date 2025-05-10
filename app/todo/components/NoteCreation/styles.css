@@ -1,0 +1,29 @@
+.note-creation-container{
+    background-color: antiquewhite;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+}
+
+.note-creation-input{
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 1rem;
+}
+
+.note-creation-button{
+    border: 1px solid #000;
+    margin: 0.5rem 1rem;
+}
+
+.note-creation-button:hover{
+    background-color: #000;
+    color: #FFF;
+    border: 1px solid #FFF;
+}
+
+.note-creation-error{
+    margin: 0.25rem 1rem;
+    color: red;
+}

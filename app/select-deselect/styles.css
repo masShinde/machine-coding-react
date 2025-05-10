@@ -1,0 +1,21 @@
+.div-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #000;
+}
+
+.div-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.row-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+    border-radius: 1rem;
+    width: 6rem;
+    height: 6rem;
+}

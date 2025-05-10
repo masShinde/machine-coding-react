@@ -1,0 +1,14 @@
+.task-card{
+    background-color: orange;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+
+.task-card-title{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.task-card-subtitle{
+
+}
